@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the paper "Hypformer: A Fast Hypothesis-Driven Rescoring Speech Recognition Framework". The entire model is straightforward, with a hypothetical decoder added on top of the Paraformer. For detailed training methods, please refer to the paper.
 
-<img src="./fig/model.png" style="zoom:33%;" />
+<img src="./fig/model.png" style="zoom:20%;" />
 
 This code is developed based on FunASR version 1.1.4 and has not been tested on newer versions of FunASR. To run the code, simply place the corresponding files in the appropriate folders within FunASR.
 

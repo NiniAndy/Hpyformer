@@ -60,7 +60,7 @@ nar-nar (nar<sup>2</sup>) rescoring, on the other hand, computes everything in o
 | :---------------------------: | :--: | :--: |
 | paralle decoder greedy search | 5.46 | 5.73 |
 |       nar-ar rescoring        | 5.13 | 5.46 |
-|       nar<sup>2</sup> rescoring       | 5.27 | 5.53 |
+|       nar<sup>2</sup> rescoring       | 5.14 | 5.43 |
 
 ### LibriSpeech-960h
 

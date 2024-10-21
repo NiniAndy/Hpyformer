@@ -4,7 +4,8 @@ This repository contains the code accompanying the paper "Hypformer: A Fast Hypo
 
 <img src="./fig/model.png" width="45%" />
 
-This code is developed based on FunASR version 1.1.4 and has not been tested on newer versions of FunASR. To run the code, simply place the corresponding files in the appropriate folders within FunASR.
+This code is developed based on FunASR version 1.1.4 and has not been tested on newer versions of FunASR.
+**To run the code, simply place the corresponding files in the appropriate folders within FunASR.**
 
 **Note:** The code has not been systematically organized yet, so it may appear somewhat disorganized.
 

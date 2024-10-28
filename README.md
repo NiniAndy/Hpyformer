@@ -37,7 +37,8 @@ nar-nar (nar<sup>2</sup>) rescoring, on the other hand, computes everything in o
 
 <img src="./fig/nar2.png" width="55%" />
 
-## Result
+## Result (Standard Mandarin)
+
 
 ### Aishell-1
 
@@ -47,6 +48,8 @@ nar-nar (nar<sup>2</sup>) rescoring, on the other hand, computes everything in o
 |       nar-ar rescoring        | 4.31 | 4.73 |
 |       nar<sup>2</sup> rescoring       | 4.34 | 4.76 |
 
+
+### Aishell-1 (Ablation Experiment)
 | err prob | nar<sup>2</sup> rescoring | nar-ar rescoring |
 | :------: | :---------------: | :--------------: |
 |    0%    |    4.41 / 4.89    |   4.39 / 4.87    |
@@ -62,6 +65,18 @@ nar-nar (nar<sup>2</sup>) rescoring, on the other hand, computes everything in o
 |       nar-ar rescoring        | 5.13 | 5.46 |
 |       nar<sup>2</sup> rescoring       | 5.14 | 5.43 |
 
+## Result (Dialect Mandarin)
+
+### KeSpeech
+
+|        decode methods         | test  |
+| :---------------------------: | :---: |
+| paralle decoder greedy search | 10.45 |
+|       nar-ar rescoring        | 8.37  |
+|       nar<sup>2</sup> rescoring       | 8.28  |
+
+## Result (English)
+
 ### LibriSpeech-960h
 
 coming soon
@@ -73,10 +88,4 @@ coming soon
 |       nar<sup>2</sup> rescoring       |     4.50       |      8.29      |
 
 
-### KeSpeech
 
-|        decode methods         | test  |
-| :---------------------------: | :---: |
-| paralle decoder greedy search | 10.45 |
-|       nar-ar rescoring        | 8.37  |
-|       nar<sup>2</sup> rescoring       | 8.28  |

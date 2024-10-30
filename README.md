@@ -79,7 +79,6 @@ nar-nar (nar<sup>2</sup>) rescoring, on the other hand, computes everything in o
 
 ### LibriSpeech-960h
 
-coming soon
 
 |        decode methods         | test clean | test other |
 | :---------------------------: | :--------: | :--------: |
